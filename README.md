@@ -1,5 +1,5 @@
 # ARTM
-Repository for the Augmentations with Random Triplet Mining (ARTM) Clustering Method
+Repository for the Augmentations with Random Triplet Mining (ARTM) Clustering Method.
 
 The paper was successfully submitted for the Geometric Deep Learning Workshop at ICLR. Our code is awaiting public release.
 
